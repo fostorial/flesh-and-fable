@@ -1,0 +1,1 @@
+// OutlineCard component placeholder

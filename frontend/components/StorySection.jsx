@@ -1,0 +1,1 @@
+// StorySection component placeholder

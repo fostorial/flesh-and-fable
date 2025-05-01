@@ -1,0 +1,13 @@
+=== Example Story Run ===
+
+Seed: "Fairy tales do not tell children the dragons exist..."
+
+[1] The House That Forgot to Let Go
+>> (Lennox returns to childhood home, the house breathes)
+
+[2] The Imaginary Friend Who Wasn't
+>> (Jasper re-emerges, rules resurface)
+
+... (More sections would continue here) ...
+
+Story completed. Exported as full text.
